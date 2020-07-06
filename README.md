@@ -6,4 +6,4 @@ Where to buy
 
 # Example Sketches for the LILYGO®TTGO T-Watch-2020
 
-Simple Watch
+Simple Watch: https://github.com/NilsBe/TTGO-T-Watch-2020/blob/master/examples/simple%20watch/simple_watch.ino
